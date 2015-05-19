@@ -1,0 +1,15 @@
+{
+  "name": "app-examen",
+  "version": "0.0.1",
+
+  "dependencies": {
+    "express": "~3.4.8",
+    "body-parser": "~1.0.0",
+    "mongoose":"3.6.11",
+    "jwt-simple":"latest",
+    "bcrypt-nodejs":"latest",
+    "bootstrap": "latest",
+    "angular": "latest",
+    "ng-dialog": "latest"
+  }
+}
